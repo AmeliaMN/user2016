@@ -7,3 +7,4 @@ Amelia McNamara, James Molyneux, Terri Johnson
 - mobilizr package: [https://github.com/mobilizingcs/mobilizr](https://github.com/mobilizingcs/mobilizr)
 - Lab code: [https://github.com/mobilizingcs/ids_labs](https://github.com/mobilizingcs/ids_labs)
 - Wiki: [https://wiki.mobilizingcs.org/](https://wiki.mobilizingcs.org/)
+- Video of teachers and students: [http://stemforall2016.videohall.com/presentations/790](http://stemforall2016.videohall.com/presentations/790)
