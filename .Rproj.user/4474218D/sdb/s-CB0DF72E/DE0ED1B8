@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Lab 1\"\nauthor: \"Amelia McNamara\"\ndate: \"June 27, 2016\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n## CDC data\n\n",
+    "created" : 1467065110565.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3022058329",
+    "id" : "DE0ED1B8",
+    "lastKnownWriteTime" : 1467063821,
+    "last_content_update" : 1467063821,
+    "path" : "~/Dropbox/user2016/Lab1.Rmd",
+    "project_path" : "Lab1.Rmd",
+    "properties" : {
+        "chunk_rendered_width" : "650",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
